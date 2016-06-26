@@ -3,7 +3,7 @@
     "jqtpl": "^2.0.16-rc1"
   },
   "name": "jstransformer-jqtpl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JQTPL support for JSTransformers.",
   "keywords": [
     "jstransformer"
