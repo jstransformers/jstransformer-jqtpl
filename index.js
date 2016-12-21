@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var jqtpl = require('jqtpl');
+var jqtpl = require('jqtpl')
 
-exports.name = 'jqtpl';
-exports.outputFormat = 'html';
+exports.name = 'jqtpl'
+exports.outputFormat = 'html'
 
-exports.compile = jqtpl.build;
+exports.compile = jqtpl.build
