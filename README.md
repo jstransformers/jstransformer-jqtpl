@@ -1,5 +1,7 @@
 # jstransformer-jqtpl
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-jqtpl.svg)](https://greenkeeper.io/)
+
 [JQTPL](https://github.com/kof/jqtpl) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-jqtpl/master.svg)](https://travis-ci.org/jstransformers/jstransformer-jqtpl)
