@@ -1,6 +1,6 @@
 'use strict'
 
-var jqtpl = require('jqtpl')
+const jqtpl = require('jqtpl')
 
 exports.name = 'jqtpl'
 exports.outputFormat = 'html'
