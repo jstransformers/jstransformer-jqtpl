@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var jqtpl = require('jstransformer')(require('jstransformer-jqtpl'));
+var jqtpl = require('jstransformer')(require('jstransformer-jqtpl'))
 
 jqtpl.render('Hello, ${name}!', {name: 'World'}).body
 //=> 'Hello, World!'
